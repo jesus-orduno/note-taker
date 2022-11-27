@@ -36,6 +36,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - Click on the trash can icon to delete a note.
 
 ## Video Walkthrough
+[jesus-orduno_note-taker.webm](https://user-images.githubusercontent.com/107074271/204135046-4ae3b052-0c3a-4e09-b977-f9f856a61cf9.webm)
 
 ## Deployed Application
 
