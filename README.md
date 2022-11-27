@@ -38,3 +38,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Video Walkthrough
 
 ## Deployed Application
+
+[Note Taker](https://jo-note-taker.herokuapp.com/)
